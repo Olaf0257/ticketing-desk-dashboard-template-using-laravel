@@ -1,0 +1,1 @@
+{!! $ticket_reply->message !!}
